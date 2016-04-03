@@ -22,7 +22,7 @@ mvn clean package
 ```
 It would build a jar file for you in the target folder and then run the JAR by typing
 ```
-java -jar /PATH_TO_THE_PROJECT/target/SpeakingUrl-0.1.0.jar
+java -jar /PATH_TO_THE_PROJECT/target/speaking-url-0.1.0.jar
 ```
 
 Now open your browser and visit [http://localhost:8080/products][2]
