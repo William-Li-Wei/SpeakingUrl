@@ -92,8 +92,8 @@ Of course we could find a lot more approaches to improve the performance. We'll 
  - Break down the mapping table into several sub-tables, and use diffent tables for the lookup of a certen category.
  - Make better rules to the url, e.g. `/Women/Shoes/Boots/Michi/Red/...` always keep gender in the most front, then category, brands ... and so on. Then we could teach the api to use the correct mapping table for the lookup.
  
- #### Contact
- Please contact at liweisadleader@hotmail.com for more descussion.
+#### Contact
+Please contact at liweisadleader@hotmail.com for more descussion.
  
  
   [1]: https://maven.apache.org/
