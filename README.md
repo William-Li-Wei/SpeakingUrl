@@ -12,7 +12,7 @@ e.g.
 #### How to get started
 It's build with Maven, to install Maven, see [https://maven.apache.org/][1]
 
-Wownload the repo and cd into the project folder, then run 
+Download the repo and cd into the project folder, then run 
 ```
 mvn spring-boot:run
 ```
